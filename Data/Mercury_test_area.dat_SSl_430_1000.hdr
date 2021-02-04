@@ -1,0 +1,13 @@
+ENVI
+description = {
+}
+samples = 1544
+lines  = 1785
+bands  = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+byte order = 0
+
+band names = {Spectral Slope (1/nm)}
